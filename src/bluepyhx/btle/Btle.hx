@@ -1,3 +1,3 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
+package bluepyhx.btle;
 typedef Btle = bluepy.btle.Btle_Module;

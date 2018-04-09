@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.blescan;
+package bluepyhx.blescan;
 @:pythonImport("bluepy.blescan", "ScanPrint") extern class ScanPrint {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**

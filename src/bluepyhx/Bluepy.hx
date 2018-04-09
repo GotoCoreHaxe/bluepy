@@ -1,3 +1,3 @@
 /* This file is generated, do not edit! */
 package bluepy;
-typedef bluepy.Bluepy = bluepy.Bluepy_Module;
+typedef bluepyhx.Bluepy = bluepyhx.Bluepy_Module;

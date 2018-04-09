@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
+package bluepyhx.btle;
 @:pythonImport("bluepy.btle") extern class Btle_Module {
 	static public var ADDR_TYPE_PUBLIC : Dynamic;
 	static public var ADDR_TYPE_RANDOM : Dynamic;

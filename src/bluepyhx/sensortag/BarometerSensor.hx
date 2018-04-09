@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.sensortag;
+package bluepyhx.sensortag;
 @:pythonImport("bluepy.sensortag", "BarometerSensor") extern class BarometerSensor {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**

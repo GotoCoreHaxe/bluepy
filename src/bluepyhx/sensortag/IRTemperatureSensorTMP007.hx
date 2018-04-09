@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.sensortag;
+package bluepyhx.sensortag;
 @:pythonImport("bluepy.sensortag", "IRTemperatureSensorTMP007") extern class IRTemperatureSensorTMP007 {
 	static public var SCALE_LSB : Dynamic;
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;

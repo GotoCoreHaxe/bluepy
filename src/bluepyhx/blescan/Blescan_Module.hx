@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.blescan;
+package bluepyhx.blescan;
 @:pythonImport("bluepy.blescan") extern class Blescan_Module {
 	static public var ANSI_CSI : Dynamic;
 	static public var ANSI_CYAN : Dynamic;

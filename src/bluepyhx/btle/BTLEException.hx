@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
+package bluepyhx.btle;
 @:pythonImport("bluepy.btle", "BTLEException") extern class BTLEException {
 	static public var COMM_ERROR : Dynamic;
 	static public var DISCONNECTED : Dynamic;

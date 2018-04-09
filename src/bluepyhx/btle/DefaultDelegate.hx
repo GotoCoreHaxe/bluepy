@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
+package bluepyhx.btle;
 @:pythonImport("bluepy.btle", "DefaultDelegate") extern class DefaultDelegate {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**

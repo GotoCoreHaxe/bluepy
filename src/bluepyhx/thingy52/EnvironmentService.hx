@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.thingy52;
+package bluepyhx.thingy52;
 @:pythonImport("bluepy.thingy52", "EnvironmentService") extern class EnvironmentService {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**

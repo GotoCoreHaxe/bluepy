@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package bluepy.sensortag;
+package bluepyhx.sensortag;
 @:pythonImport("bluepy.sensortag") extern class Sensortag_Module {
 	static public var AUTODETECT : Dynamic;
 	static public var AssignedNumbers : Dynamic;
