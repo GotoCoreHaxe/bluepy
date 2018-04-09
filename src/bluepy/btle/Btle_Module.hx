@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
-@:pythonImport("bluepy.bluepy.btle") extern class Btle_Module {
+package btle;
+@:pythonImport("bluepy.btle") extern class Btle_Module {
 	static public var ADDR_TYPE_PUBLIC : Dynamic;
 	static public var ADDR_TYPE_RANDOM : Dynamic;
 	static public var AssignedNumbers : Dynamic;

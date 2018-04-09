@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
-@:pythonImport("bluepy.bluepy.btle", "_UUIDNameMap") extern class _UUIDNameMap {
+package btle;
+@:pythonImport("bluepy.btle", "_UUIDNameMap") extern class _UUIDNameMap {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).

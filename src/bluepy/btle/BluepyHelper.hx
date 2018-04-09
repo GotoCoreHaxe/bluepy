@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
-@:pythonImport("bluepy.bluepy.btle", "BluepyHelper") extern class BluepyHelper {
+package btle;
+@:pythonImport("bluepy.btle", "BluepyHelper") extern class BluepyHelper {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).

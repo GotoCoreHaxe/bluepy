@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.thingy52;
-@:pythonImport("bluepy.bluepy.thingy52") extern class Thingy52_Module {
+package thingy52;
+@:pythonImport("bluepy.thingy52") extern class Thingy52_Module {
 	static public var ADDR_TYPE_RANDOM : Dynamic;
 	static public var BATTERY_LEVEL_UUID : Dynamic;
 	static public var BATTERY_SERVICE_UUID : Dynamic;

@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.sensortag;
-@:pythonImport("bluepy.bluepy.sensortag", "HumiditySensorHDC1000") extern class HumiditySensorHDC1000 {
+package sensortag;
+@:pythonImport("bluepy.sensortag", "HumiditySensorHDC1000") extern class HumiditySensorHDC1000 {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).

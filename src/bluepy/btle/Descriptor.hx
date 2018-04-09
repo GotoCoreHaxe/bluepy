@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
-@:pythonImport("bluepy.bluepy.btle", "Descriptor") extern class Descriptor {
+package btle;
+@:pythonImport("bluepy.btle", "Descriptor") extern class Descriptor {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).

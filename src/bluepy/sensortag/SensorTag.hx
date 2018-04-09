@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.sensortag;
-@:pythonImport("bluepy.bluepy.sensortag", "SensorTag") extern class SensorTag {
+package sensortag;
+@:pythonImport("bluepy.sensortag", "SensorTag") extern class SensorTag {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	public function __del__():Dynamic;
 	/**

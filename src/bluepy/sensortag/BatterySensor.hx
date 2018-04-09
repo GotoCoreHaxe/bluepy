@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.sensortag;
-@:pythonImport("bluepy.bluepy.sensortag", "BatterySensor") extern class BatterySensor {
+package sensortag;
+@:pythonImport("bluepy.sensortag", "BatterySensor") extern class BatterySensor {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).

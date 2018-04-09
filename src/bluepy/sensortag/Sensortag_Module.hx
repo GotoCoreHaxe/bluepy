@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.sensortag;
-@:pythonImport("bluepy.bluepy.sensortag") extern class Sensortag_Module {
+package sensortag;
+@:pythonImport("bluepy.sensortag") extern class Sensortag_Module {
 	static public var AUTODETECT : Dynamic;
 	static public var AssignedNumbers : Dynamic;
 	static public var SENSORTAG_2650 : Dynamic;

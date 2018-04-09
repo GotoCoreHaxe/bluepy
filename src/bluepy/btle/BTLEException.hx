@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
-@:pythonImport("bluepy.bluepy.btle", "BTLEException") extern class BTLEException {
+package btle;
+@:pythonImport("bluepy.btle", "BTLEException") extern class BTLEException {
 	static public var COMM_ERROR : Dynamic;
 	static public var DISCONNECTED : Dynamic;
 	static public var GATT_ERROR : Dynamic;

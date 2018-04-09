@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.sensortag;
-@:pythonImport("bluepy.bluepy.sensortag", "AccelerometerSensorMPU9250") extern class AccelerometerSensorMPU9250 {
+package sensortag;
+@:pythonImport("bluepy.sensortag", "AccelerometerSensorMPU9250") extern class AccelerometerSensorMPU9250 {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).

@@ -1,3 +1,3 @@
 /* This file is generated, do not edit! */
-package bluepy.blescan;
+package blescan;
 typedef Blescan = bluepy.blescan.Blescan_Module;

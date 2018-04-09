@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.thingy52;
-@:pythonImport("bluepy.bluepy.thingy52", "MyDelegate") extern class MyDelegate {
+package thingy52;
+@:pythonImport("bluepy.thingy52", "MyDelegate") extern class MyDelegate {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).

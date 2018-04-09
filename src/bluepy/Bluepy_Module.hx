@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy;
-@:pythonImport("bluepy") extern class bluepy.Bluepy_Module {
+package ;
+@:pythonImport("bluepy") extern class Bluepy_Module {
 	static public var __all__ : Dynamic;
 	static public var __builtins__ : Dynamic;
 	static public var __cached__ : Dynamic;

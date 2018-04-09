@@ -1,7 +1,7 @@
 /* This file is generated, do not edit! */
-package bluepy.btle;
+package btle;
 import python.Tuple;
-@:pythonImport("bluepy.bluepy.btle", "ScanEntry") extern class ScanEntry {
+@:pythonImport("bluepy.btle", "ScanEntry") extern class ScanEntry {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).

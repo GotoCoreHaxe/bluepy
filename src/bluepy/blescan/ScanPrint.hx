@@ -1,6 +1,6 @@
 /* This file is generated, do not edit! */
-package bluepy.blescan;
-@:pythonImport("bluepy.bluepy.blescan", "ScanPrint") extern class ScanPrint {
+package blescan;
+@:pythonImport("bluepy.blescan", "ScanPrint") extern class ScanPrint {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**
 		Implement delattr(self, name).
