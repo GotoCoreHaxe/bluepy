@@ -1,1 +1,1 @@
-# bluepyhx
+# bluepy

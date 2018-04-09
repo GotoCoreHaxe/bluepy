@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$//bluepy.iml" filepath="$PROJECT_DIR$//bluepy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluepyhx.iml" filepath="$PROJECT_DIR$/bluepyhx.iml" />
     </modules>
   </component>
 </project>

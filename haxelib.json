@@ -5,7 +5,7 @@
   "tags": ["python", "haxe","bluepy","bluetooth","BLE"],
   "description": "Bluepy python library generated from bluepy by pyextern generator",
   "version": "1.0.0",
-  "classPath": "src/",
+  "classPath": "src",
   "releasenote": "Simple generation from bluepy with pyextern",
   "contributors": ["varadig"],
   "dependencies": {}
