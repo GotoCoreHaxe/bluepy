@@ -1,6 +1,6 @@
 {
   "name": "bluepyhx",
-  "url" : "https://github.com/GotoCoreHaxe/bluepy",
+  "url" : "https://github.com/GotoCoreHaxe/bluepyhx",
   "license": "MIT",
   "tags": ["python", "haxe","bluepy","bluetooth","BLE"],
   "description": "Bluepy python library generated from bluepy by pyextern generator",
