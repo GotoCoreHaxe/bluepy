@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package sensortag;
+package bluepy.sensortag;
 @:pythonImport("bluepy.sensortag", "MovementSensorMPU9250") extern class MovementSensorMPU9250 {
 	static public var ACCEL_RANGE_16G : Dynamic;
 	static public var ACCEL_RANGE_2G : Dynamic;

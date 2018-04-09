@@ -1,3 +1,3 @@
 /* This file is generated, do not edit! */
-package sensortag;
+package bluepy.sensortag;
 typedef DefaultDelegate = bluepy.btle.DefaultDelegate;

@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package sensortag;
+package bluepy.sensortag;
 @:pythonImport("bluepy.sensortag", "IRTemperatureSensor") extern class IRTemperatureSensor {
 	static public var Apoly : Dynamic;
 	static public var Bpoly : Dynamic;

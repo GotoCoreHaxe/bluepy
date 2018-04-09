@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package btle;
+package bluepy.btle;
 @:pythonImport("bluepy.btle", "Characteristic") extern class Characteristic {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**

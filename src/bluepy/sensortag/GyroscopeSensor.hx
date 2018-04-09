@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package sensortag;
+package bluepy.sensortag;
 @:pythonImport("bluepy.sensortag", "GyroscopeSensor") extern class GyroscopeSensor {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**

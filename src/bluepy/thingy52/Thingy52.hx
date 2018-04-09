@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package thingy52;
+package bluepy.thingy52;
 @:pythonImport("bluepy.thingy52", "Thingy52") extern class Thingy52 {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	public function __del__():Dynamic;

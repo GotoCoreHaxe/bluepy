@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package sensortag;
+package bluepy.sensortag;
 @:pythonImport("bluepy.sensortag", "MagnetometerSensorMPU9250") extern class MagnetometerSensorMPU9250 {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	/**

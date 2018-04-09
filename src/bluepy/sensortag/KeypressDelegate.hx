@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package sensortag;
+package bluepy.sensortag;
 @:pythonImport("bluepy.sensortag", "KeypressDelegate") extern class KeypressDelegate {
 	static public var ALL_BUTTONS : Dynamic;
 	static public var BUTTON_L : Dynamic;

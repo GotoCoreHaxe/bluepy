@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package btle;
+package bluepy.btle;
 @:pythonImport("bluepy.btle", "Peripheral") extern class Peripheral {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
 	public function __del__():Dynamic;

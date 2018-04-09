@@ -1,5 +1,5 @@
 /* This file is generated, do not edit! */
-package btle;
+package bluepy.btle;
 import python.Tuple;
 @:pythonImport("bluepy.btle", "ScanEntry") extern class ScanEntry {
 	static public function __class__(args:haxe.extern.Rest<Dynamic>):Dynamic;
